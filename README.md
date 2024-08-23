@@ -1,18 +1,125 @@
-<h1 align="left">Hi 👋, I'm Judy</h1>
-<h3 align="left">A passionate frontend developer.</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Judy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-🌱 I’m currently pursuing **Master of IT, Data Analytics**
+[![Linkedin: judy](https://img.shields.io/badge/-judy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdyprk/)](https://www.linkedin.com/in/jdyprk/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://heady-cougar-4fa.notion.site/Judy-PARK-e3cf442a5d564c4b809c5048e46dfda7?pvs=4)](https://heady-cougar-4fa.notion.site/Judy-PARK-e3cf442a5d564c4b809c5048e46dfda7?pvs=4)
+![](https://heady-cougar-4fa.notion.site/Judy-PARK-e3cf442a5d564c4b809c5048e46dfda7?pvs=4)
+### 📫 Like to meet me?
 
-📫 Reach me at **p.eunjung.0425@gmail.com**
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-</p>
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+👇 Hit in your console or terminal to connect with me.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judipark0416&show_icons=true&locale=en&layout=compact" alt="judipark0416" /></p>
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judipark0416&show_icons=true&locale=en" alt="judipark0416" /></p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C036%20hrs%203%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1491-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 185.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 86 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                760 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+🌆 Daytime                1793 commits        ██████████░░░░░░░░░░░░░░░   40.39 % 
+🌃 Evening                1298 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌙 Night                  588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Tuesday                  613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Wednesday                725 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Saturday                 574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   916 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Dart                     7 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.43 % 
+JavaScript               6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.45 % 
+TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+.env file                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
+🔥 Editors: 
+Android Studio           8 hrs 2 mins        █████████████░░░░░░░░░░░░   52.02 % 
+WebStorm                 7 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.98 % 
+
+💻 Operating System: 
+Mac                      15 hrs 27 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               32 repos            ███████████░░░░░░░░░░░░░░   43.84 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+```
+
+
+
+
+ Last Updated on 23/08/2024 00:27:23 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
