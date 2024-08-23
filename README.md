@@ -1,15 +1,9 @@
 <h1 align="left">Hi 👋, I'm Judy</h1>
 <h3 align="left">A passionate frontend developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=judipark0416" alt="judipark0416" /></a> </p>
+🌱 I’m currently pursuing **Master of IT, Data Analytics**
 
-- 🌱 I’m currently pursuing **Master of IT, Data Analytics**
-
-- 👨‍💻 All of my projects are available at [https://heady-cougar-4fa.notion.site/Judy-PARK-e3cf442a5d564c4b809c5048e46dfda7?pvs=4](https://heady-cougar-4fa.notion.site/Judy-PARK-e3cf442a5d564c4b809c5048e46dfda7?pvs=4)
-
-- 📫 How to reach me **p.eunjung.0425@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+📫 Reach me at **p.eunjung.0425@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judipark0416&show_icons=true&locale=en&layout=compact" alt="judipark0416" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judipark0416&show_icons=true&locale=en" alt="judipark0416" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judipark0416&" alt="judipark0416" /></p>
